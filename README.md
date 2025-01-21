@@ -35,10 +35,6 @@ Whether you're a beginner looking to understand the basics of front-end caching 
 
 We welcome contributions! If you have articles or resources related to front-end caching that you'd like to add to this repository, please feel free to submit a pull request.
 
-## Stay Updated
-
-To stay informed about new additions to this repository, follow us on [Twitter/GitHub] (add your social media links).
-
 Thank you for exploring our collection of front-end caching resources. Happy coding!
 
 [article 1](https://medium.com/@gidi2904/caching-strategies-for-frontend-developers-boosting-website-performance-7ea2c1ff1532)\
